@@ -1,1 +1,18 @@
-my wife
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Timing</h2>
+
+<p>Click "Try it". Wait 3 seconds, and the page will alert "Hello".</p>
+
+<button onclick="setTimeout(myFunction, 5000);">Try it</button>
+
+<script>
+function myFunction() {
+  alert('I Love You');
+}
+</script>
+
+</body>
+</html>
